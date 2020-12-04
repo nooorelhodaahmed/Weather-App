@@ -1,0 +1,21 @@
+PODS:
+  - IHProgressHUD (0.1.5)
+
+DEPENDENCIES:
+  - IHProgressHUD (from `https://github.com/Swiftify-Corp/IHProgressHUD.git`)
+
+EXTERNAL SOURCES:
+  IHProgressHUD:
+    :git: https://github.com/Swiftify-Corp/IHProgressHUD.git
+
+CHECKOUT OPTIONS:
+  IHProgressHUD:
+    :commit: 84b65368d4c106e785c89ed5a75ba90111633d43
+    :git: https://github.com/Swiftify-Corp/IHProgressHUD.git
+
+SPEC CHECKSUMS:
+  IHProgressHUD: 554f1e4cb088cf82c238dc1c607f5fadfd81ab89
+
+PODFILE CHECKSUM: 1118408a437b6643cb7f1b36d2d73debe65dc552
+
+COCOAPODS: 1.10.0
